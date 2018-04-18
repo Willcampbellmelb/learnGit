@@ -1,0 +1,28 @@
+Dad jokes
+_______________________
+Driving by a graveyard.
+.
+.
+.
+Grandpa or dad: lots of people are dying to get in there.
+chuckles.
+_______________________
+What would you call a fake noodle?
+An Impasta!!!
+_______________________
+I would avoid the sushi if I was you. It’s a little fishy.
+_______________________
+Want to hear a joke about paper? Nevermind it’s tearable.
+_______________________
+Gonorrhea would have been a great name for diarrhea medicine
+_______________________
+You know what I say about religion. Atheism is a non-prophet organisation.
+_______________________
+Have you ever tried to eat a clock? It's very time consuming.
+_______________________
+
+
+Notes on Git.
+
+Repositors-> LIST OF ALL YOUR FILES
+Commit file-> Saves the file to your repository
