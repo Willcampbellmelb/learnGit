@@ -21,6 +21,8 @@ _______________________
 Have you ever tried to eat a clock? It's very time consuming.
 _______________________
 These jokes are funny.
+___________________
+This is a new line.
 
 
 Notes on Git.
