@@ -42,4 +42,6 @@ Commit file-> Saves the file to your repository
     big overall change.
     
  ->If we decide the branch should be part of the master (this function or whatever is something we like)
+  ->we make a pull request (pull this branch into the master) and then must confirm that this is all swell,l.
+  
  
