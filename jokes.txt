@@ -33,8 +33,11 @@ Kids don't like jokes
 ____________
 Notes on Git.
 
-Repositors-> LIST OF ALL YOUR FILES
-Commit file-> Saves the file to your repository
+Repositors.
+-> LIST OF ALL YOUR FILES
+
+Commit file.
+-> Saves the file to your repository
   ->Each commit has a unique identifier hash value.
   ->Makes the file accessible at each commit or change in the file (commited meaning perma change)
     ->perma change meaning change to the master version of the file
@@ -46,6 +49,19 @@ Commit file-> Saves the file to your repository
     big overall change.
     
  ->If we decide the branch should be part of the master (this function or whatever is something we like)
-  ->we make a pull request (pull this branch into the master) and then must confirm that this is all swell,l.
+  ->we make a pull request (pull this branch into the master) and then must confirm that this is all swelll.
+  ->This MERGES the branch to the master.
+  
+  Forks.
+  ->Forking a repository.
+  ->Making and entire other instance of the repo and in my version I have a replica of the other repo.
+    ->We can make changes etc. w/o affecting the old O.G. version
+  
+  Pull Request.
+  ->Sending a branch of the O.G. to be put into the original file (request to File creator to pull a 
+    specific branch you ahve made or edit to the code into the master (commit it).
+    
+  
+  
   
  
