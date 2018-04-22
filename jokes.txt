@@ -35,6 +35,9 @@ Commit file-> Saves the file to your repository
   
  Branches.
  -> EXPERIMENTAL versions of the original document.
+ ->Can have 2+ possibilities @ the same time
  ->side chains off the "master" for making different versions of file or testing new compoments before making 
     big overall change.
+    
+ ->If we decide the branch should be part of the master (this function or whatever is something we like)
  
