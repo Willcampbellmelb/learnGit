@@ -1,4 +1,4 @@
-Dad jokes With unicorn jokes
+Dad jokes With unicorn jokes and kid jokes
 How do you say unicorn in Spanish?
 Unamaize
 _______________________
@@ -25,6 +25,8 @@ _______________________
 These jokes are funny.
 ___________________
 This is a new line.
+
+Kids don't like jokes
 
 ____________
 Notes on Git.
