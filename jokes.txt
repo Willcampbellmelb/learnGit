@@ -1,4 +1,4 @@
-Dad jokes With unicorn jokes
+Dad jokes With unicorn jokes and kid jokes
 How do you say unicorn in Spanish?
 Unamaize
 _______________________
@@ -27,6 +27,8 @@ ___________________
 This is a new line.
 _________________
 The color of jello
+
+Kids don't like jokes
 
 ____________
 Notes on Git.
