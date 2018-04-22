@@ -24,8 +24,9 @@ These jokes are funny.
 ___________________
 This is a new line.
 
-
+____________
 Notes on Git.
 
 Repositors-> LIST OF ALL YOUR FILES
 Commit file-> Saves the file to your repository
+  ->Each commit has a unique identifier hash value.
