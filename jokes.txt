@@ -56,12 +56,16 @@ Commit file.
   ->Forking a repository.
   ->Making and entire other instance of the repo and in my version I have a replica of the other repo.
     ->We can make changes etc. w/o affecting the old O.G. version
+    -> Github will let you do this by just clicking edit or clicking Fork (creates an entire version of this 
+        code into your file folders->your own duplicate repo)
   
   Pull Request.
   ->Sending a branch of the O.G. to be put into the original file (request to File creator to pull a 
     specific branch you ahve made or edit to the code into the master (commit it).
     
-  
+  Issues.
+  ->If you fix an issue via a commit, put fixes #issue_number and when done will automatically close that issue
+ 
   
   
  
