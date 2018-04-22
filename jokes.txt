@@ -30,3 +30,11 @@ Notes on Git.
 Repositors-> LIST OF ALL YOUR FILES
 Commit file-> Saves the file to your repository
   ->Each commit has a unique identifier hash value.
+  ->Makes the file accessible at each commit or change in the file (commited meaning perma change)
+    ->perma change meaning change to the master version of the file
+  
+ Branches.
+ -> EXPERIMENTAL versions of the original document.
+ ->side chains off the "master" for making different versions of file or testing new compoments before making 
+    big overall change.
+ 
