@@ -1,0 +1,14 @@
+
+Command line comands.
+
+pwd-> print workind directory.
+open . ->will open current file your in in a window
+open [filename] -> opens that file
+
+cd [directory/file name] -> takes you into that directory
+cd .. takes you back one directory
+cd [ANY LETTER](tab) autfiles file names to any available.
+
+cd (DRAG DIRECTORY INTO TERMINAL), will bring you there.
+
+ls -all [will show all files, there infor and all hidden files]
