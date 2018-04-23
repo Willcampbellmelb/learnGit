@@ -1,6 +1,6 @@
 
 Command line comands.
-
+______________________
 pwd-> print workind directory.
 open . ->will open current file your in in a window
 open [filename] -> opens that file
@@ -12,3 +12,12 @@ cd [ANY LETTER](tab) autfiles file names to any available.
 cd (DRAG DIRECTORY INTO TERMINAL), will bring you there.
 
 ls -all [will show all files, there infor and all hidden files]
+
+
+Git cmnd line.
+______________
+git status.
+  ->When in a repository will list all modifications to the git repo clone you have made locally
+git commit.
+  -a (all-> commit all of the changes)
+  -m (add a message "adding a message"_
