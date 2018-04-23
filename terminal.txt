@@ -21,3 +21,17 @@ git status.
 git commit.
   -a (all-> commit all of the changes)
   -m (add a message "adding a message"_
+
+After you have done a commit
+->Must make a push to gitHub
+
+git push [name of remote repository]
+  ->To get the name of all remote repositories do-> git remote
+push [remote name][branch in remote to push to]
+e.g. git push origin master
+
+->Can also make a pull from the repository(remote) from and others pushs to github.
+
+log
+-number-> of last few commits you want to see.
+
